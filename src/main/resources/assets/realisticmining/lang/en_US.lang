@@ -1,0 +1,42 @@
+# Items
+item.dustHeavyIron.name=Heavy Iron Dust
+
+# Ores
+tile.oreHeavyIron.name=Heavy Iron Ore
+tile.blockHeavyIron.name=Heavy Iron Ore Block
+
+tile.oreHeavyDiamond.name=Heavy Diamond Ore
+tile.blockHeavyDiamond.name=Heavy Diamond Ore Block
+
+tile.oreHeavyGold.name=Heavy Gold Ore
+tile.blockHeavyGold.name=Heavy Gold Ore Block
+
+tile.oreHeavyCoal.name=Heavy Coal Ore
+tile.blockHeavyCoal.name=Heavy Coal Ore Block
+
+tile.oreHeavyRedstone.name=Heavy Redstone Ore
+tile.blockHeavyRedstone.name=Heavy Redstone Ore Block
+
+tile.oreHeavyLapis.name=Heavy Lapis Ore
+tile.blockHeavyLapis.name=Heavy Lapis Ore Block
+
+tile.oreHeavyCertus.name=Heavy Certus Ore
+tile.blockHeavyCertus.name=Heavy Certus Ore Block
+
+tile.oreHeavyCopper.name=Heavy Copper Ore
+tile.blockHeavyCopper.name=Heavy Copper Ore Block
+
+tile.oreHeavyTin.name=Heavy Tin Ore
+tile.blockHeavyTin.name=Heavy Tin Ore Block
+
+tile.oreHeavyLead.name=Heavy Lead Ore
+tile.blockHeavyLead.name=Heavy Lead Ore Block
+
+tile.oreHeavySilver.name=Heavy Silver Ore
+tile.blockHeavySilver.name=Heavy Silver Ore Block
+
+tile.oreHeavyNickel.name=Heavy Nickel Ore
+tile.blockHeavyNickel.name=Heavy Nickel Ore Block
+
+tile.oreHeavyZinc.name=Heavy Zinc Ore
+tile.blockHeavyZinc.name=Heavy Zinc Ore Block
